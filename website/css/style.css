@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:cornsilk;
+}
+
+/*Divisions*/
+
+#header{
+	
+	margin-bottom: 50px; 
+	
+}
+
+#navigation{
+	height: 400px;
+	background-color: black;
+	margin-bottom: 50px; 
+}
+
+#gallery{
+	
+	
+	margin-bottom: 50px; 
+	
+}
+
+#information{
+	
+	margin-bottom: 50px; 
+	
+}
+
+#options{
+	margin-bottom: 50px; 
+}
+
+#footer{
+	
+	background-color: #e9ecef;
+	
+	
+}
+
+/*Items*/
+
+.main-jumbo{
+	
+}
+
+#logo {
+	margin-bottom: 25px;
+	margin-left: 45%;
+	
+}
+
+#msg1{
+	
+}
+
+.menu-option{
+	font-size: 20px;
+}
+
+.card{
+	background-color: #e9ecef;
+}
+
+.my-shadow{
+	box-shadow: 0px 0px 50px 5px black;
+}
+
+.my-shadow-lite{
+	box-shadow: 0px 0px 10px 3px black;
+}
+
+#carousel-1{
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#media{
+	height: 64px;
+	width: 270px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#arrow-up{
+	position:absolute;
+	right: 20px;
+	top: 5px;
+}
