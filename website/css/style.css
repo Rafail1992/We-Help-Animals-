@@ -7,10 +7,23 @@ body{
 
 /*Divisions*/
 
+#contact-form{
+	background-color: #e9ecef;
+	border-radius: 24px;
+}
+
+#calendar{
+	margin-bottom: 50px;
+}
+
 #header{
 	
 	margin-bottom: 50px; 
 	
+}
+
+#event-div{
+	background-color: #e9ecef;
 }
 
 #navigation{
@@ -20,7 +33,6 @@ body{
 }
 
 #gallery{
-	
 	
 	margin-bottom: 50px; 
 	
@@ -33,7 +45,14 @@ body{
 }
 
 #options{
+	margin-top: 450px;
 	margin-bottom: 50px; 
+}
+
+#options2{
+	
+	margin-bottom: 50px; 
+	
 }
 
 #footer{
@@ -41,6 +60,19 @@ body{
 	background-color: #e9ecef;
 	
 	
+}
+
+#about-us-info{
+	margin-bottom: 50px;
+}
+
+#emdbed-video{
+	margin-bottom: 50px;
+}
+
+#news-div{
+	
+	margin-bottom: 50px;
 }
 
 /*Items*/
@@ -52,10 +84,6 @@ body{
 #logo {
 	margin-bottom: 25px;
 	margin-left: 45%;
-	
-}
-
-#msg1{
 	
 }
 
@@ -93,4 +121,46 @@ body{
 	position:absolute;
 	right: 20px;
 	top: 5px;
+}
+
+#img2{
+	position: absolute;
+	right: 0px;
+	
+}
+
+#about-us-card{
+	width: 1000px;
+}
+
+#paypal{
+	border-radius: 24px;
+	padding-left: 30px;
+	padding-right: 30px;
+	font-weight: 800;
+}
+#donate-div {
+	text-align: center;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+	border-radius: 12px;
+}
+
+#donate-btn{
+	height: 50px;
+}
+
+.mapouter{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.gmap_canvas{
+	border: 10px solid #e9ecef;
+	border-radius: 12px;
+	
 }
